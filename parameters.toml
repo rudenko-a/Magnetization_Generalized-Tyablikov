@@ -1,0 +1,12 @@
+    a = 3.54780687        # lattice constant
+    b = 4.740272313       # lattice constant
+    dx = 1.773903435      # 2-nd atom displacement
+    dy = 2.370136157      # 2-nd atom displacement
+    dz = 2.065678385      # 2-nd atom displacement
+#
+    J1 = 1.417073732e-3  # exchange in meV
+    J2 = 0.933347136e-3  #
+    J3 = 1.759682603e-3  #
+    J4 = 0.037398395e-3  # 
+    D = 0.003563333e-3   # in-plane SIA
+    E = -0.003506111e-3  # out-of-plane SIA
