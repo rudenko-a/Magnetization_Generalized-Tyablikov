@@ -25,3 +25,8 @@ is the isotropic contribution to the dispersion with $J_{ij}({\bf q})$ being the
 is the Anderson-Callen decoupling function. In the two limiting cases one has:
 * $D>0$ and $E=0$ (easy axis): $E^{\pm}({\bf q}) = \omega_0^{\pm}({\bf q}) + 2D\Phi \langle S_z \rangle$ that is $E^{-}({\bf q}) \sim q^2$ at ${\bf q} \rightarrow 0$
 * $D>0$ and $E=-D$ (easy plane): $E^{\pm}({\bf q}) = \sqrt{\omega_0^{\pm}({\bf q})} \sqrt{\omega_0^{\pm}({\bf q}) + 2D\Phi \langle S_z \rangle}$ that is $E^{-}({\bf q}) \sim q$ at ${\bf q} \rightarrow 0$
+
+### References
+* P. Fröbrich and P.J. Kuntz, "Many-body Green's function theory of Heisenberg films", Phys. Rep. 432, 223 (2006)
+* L. Hu, H. Li, and R. Tao, "Effects of interplay of dipole-dipole interactions and single-ion easy-plane anisotropy of two-dimensional ferromagnets", Phys. Rev. B 60, 10222 (1999)
+* A.N. Rudenko, M. Rösner, and M.I. Katsnelson, "Dielectric tunability of magnetic properties in orthorhombic ferromagnetic monolayer CrSBr", npj Comput. Mater. 9, 83 (2023)
